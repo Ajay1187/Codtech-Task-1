@@ -1,0 +1,10 @@
+/* light.css */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.chat-window {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+}
